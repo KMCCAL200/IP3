@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 65fd3d18ef270584aada703cb9195659
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - S1: {instanceID: 0}
+  - S2: {instanceID: 0}
+  - S3: {instanceID: 0}
+  - S4: {instanceID: 0}
+  - S5: {instanceID: 0}
+  - A1: {fileID: 8300000, guid: c7cf45a33a11b0f4299ea7b6ae74963b, type: 3}
+  - A2: {fileID: 8300000, guid: 202e837669c066b4ab85f0ca3192f391, type: 3}
+  - A3: {fileID: 8300000, guid: 89c9028a2741b3944a2e8b5d07e66b78, type: 3}
+  - A4: {fileID: 8300000, guid: 171794a4c0caa964392fe06b4b9ac6ff, type: 3}
+  - A5: {fileID: 8300000, guid: e82cf699050782f4fa8dc82574666564, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 711823fa61f4bbd4a90046e2c5a993d4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Exit1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2227
+        width: 579
+        height: 582
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Exit2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2227
+        width: 578
+        height: 582
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Next1
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2106
+        width: 618
+        height: 820
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Next2
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 2106
+        width: 571
+        height: 820
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Replay1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1473
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Replay2
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1473
+        width: 479
+        height: 466
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Help1
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1354
+        width: 420
+        height: 630
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Help2
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1354
+        width: 419
+        height: 630
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Journal1
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1363
+        width: 429
+        height: 610
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Journal2
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1420
+        width: 312
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Textbox
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 420
+        width: 2707
+        height: 621
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
